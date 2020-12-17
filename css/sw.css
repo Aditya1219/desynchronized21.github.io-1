@@ -6,9 +6,16 @@ body a{
 	-ms-transition: 0.5s all;
   }
   .responsive {
+	
 	width: 100%;
-	max-width: 500px;
+	max-width: 800px;
 	height: auto;
+  }
+  .centerss {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
   }
   html, body{
 	  font-size: 100%;
@@ -55,11 +62,11 @@ body a{
   }
   .bgimg14 {
 	background: url(../images/gif4.gif) no-repeat 0px 0px;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
-   background-size: cover;
-   color: white;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+	 background-size: cover;
+	 color: white;
 	font-family: "Courier New", Courier, monospace;
 	
   }
@@ -175,85 +182,7 @@ body a{
 	margin: auto;
 	width: 40%;
   }
-.banner12{
-  background: url(../images/banners/bg2.jpg) no-repeat 0px 0px;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
-   background-size: cover;
-}
-  .banner11{
-	background: url(../images/banners/main.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	 background-size: cover;
-}
-  .banner10{
-	  background: url(../images/banners/bg.jpg) no-repeat 0px 0px;
-	  background-size: cover;
-	  background-attachment: fixed;
-	  background-position: center center;
-	   background-size: cover;
-  }
-  
-  
-  .banner9{
-	background: url(../images/shadowfight.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	 background-size: cover;
-}
-  .banner8{
-	background: url(../images/farcry1.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	 background-size: cover;
-}
-  .banner7{
-	background: url(../images/banners/apex.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	 background-size: cover;
-}
-  .banner6{
-	background: url(../images/banners/minecraft.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	 background-size: cover;
-}
-  .banner5{
-	  background: url(../images/banners/bat.jpg) no-repeat 0px 0px;
-	  background-size: cover;
-	  background-attachment: fixed;
-	  background-position: center center;
-	   background-size: cover;
-  }
-  .banner4{
-	  background: url(../images/banners/logo.jpg) no-repeat 0px 0px;
-	  background-size: cover;
-	  background-attachment: fixed;
-	  background-position: center center;
-	   background-size: cover;
-  }
-  .banner3{
-	  background: url(../images/banners/acll.jpg) no-repeat 0px 0px;
-	  background-size: cover;
-	  background-attachment: fixed;
-	 background-position: center center;
-	  background-size: cover;
-  }
-  .banner2{
-	background: url(../images/banners/starwarslogo.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
-	 background-size: cover;
-}
+
   
   .banner{
 	  background: url(../images/banners/starwarslogo.jpg) no-repeat 0px 0px;
